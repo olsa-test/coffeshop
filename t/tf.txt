@@ -1,7 +1,8 @@
 ett
-två
-tre
+tva
+tre tre
 fyra
 fem
 sex
 sju
+atta
