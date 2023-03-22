@@ -7,3 +7,6 @@ sex
 sju
 atta
 nio
+tio
+elva
+tolv
