@@ -1,12 +1,1 @@
-ett ett
-tva
-tre tre
-fyra
-fem
-sex
-sju
-atta
-nio
-tio
-elva
-tolv
+ett
